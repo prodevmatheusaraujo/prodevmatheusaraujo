@@ -2,7 +2,7 @@
 
 **`Product Design e Full Stack Developer`**
 
-Sou Matheus Araujo, tenho 28 anos e sou carioca da gema. Depois de mais de 7 anos de concurso na Marinha do Brasil, decidi migrar para tech por paixão. Sou formado em UX Design pela Universidade Cruzeiro do Sul e atualmente curso o Técnico de Programação Full Stack pelo SENAI Firjan Tecnologias, unindo visão estratégica de produto a conhecimento técnico de desenvolvimento para criar experiências digitais intuitivas e centradas no usuário. Compartilho meus projetos e estudos de caso de UX/UI no LinkedIn e no Behance.
+Sou Matheus Araujo, tenho 28 anos e sou carioca da gema. Depois de mais de 7 anos de concurso na Marinha do Brasil, decidi migrar para tech por paixão. Sou formado em Design de Experiência pela Universidade Cruzeiro do Sul e atualmente curso o Técnico de Programação Full Stack pelo SENAI Firjan Tecnologias, unindo visão estratégica de produto a conhecimento técnico de desenvolvimento para criar experiências digitais intuitivas e centradas no usuário. Compartilho meus projetos e estudos de caso de UX/UI no LinkedIn e no Behance.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferreiraraujomatheus)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/matheusaraujo179)
